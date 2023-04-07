@@ -4,7 +4,7 @@ import { AiFillGithub, AiFillLinkedin } from "react-icons/ai";
 
 export default function Home() {
   return (
-    <main className="text-black bg-white flex min-h-screen flex-col items-center p-15 justify-between">
+    <main className="text-black bg-white flex min-h-screen flex-col items-center p-15">
       <div className="text-slate-800	text-lg text-center font-normal flex flex-col items-center mt-40">
         <Image
           src="/construction-2.gif"
@@ -14,7 +14,7 @@ export default function Home() {
         />
         <p>making something new</p>
       </div>
-      <div className="flex flex-row justify-between w-20 mb-5">
+      <div className="flex flex-row justify-between w-20 mt-10">
         <a
           href="https://github.com/markoprodanovic"
           target="_blank"

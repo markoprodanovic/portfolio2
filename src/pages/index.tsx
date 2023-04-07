@@ -4,8 +4,8 @@ import { AiFillGithub, AiFillLinkedin } from "react-icons/ai";
 
 export default function Home() {
   return (
-    <main className="text-black bg-white flex min-h-screen flex-col items-center p-24 justify-between">
-      <div className="text-slate-800	text-l font-normal flex flex-col items-center mt-40">
+    <main className="text-black bg-white flex min-h-screen flex-col items-center p-15 justify-between">
+      <div className="text-slate-800	text-lg text-center font-normal flex flex-col items-center mt-40">
         <Image
           src="/construction-2.gif"
           alt="construction gif"

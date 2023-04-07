@@ -14,7 +14,7 @@ export default function Home() {
         />
         <p>making something new</p>
       </div>
-      <div className="flex flex-row justify-between w-20">
+      <div className="flex flex-row justify-between w-20 mb-5">
         <a
           href="https://github.com/markoprodanovic"
           target="_blank"

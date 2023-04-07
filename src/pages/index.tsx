@@ -4,13 +4,13 @@ import { AiFillGithub, AiFillLinkedin } from "react-icons/ai";
 
 export default function Home() {
   return (
-    <main className="text-black bg-cyan-50 flex min-h-screen flex-col items-center p-24 justify-between">
-      <div className="justify-self-center text-cyan-900	text-xl font-medium flex flex-col items-center">
+    <main className="text-black bg-white flex min-h-screen flex-col items-center p-24 justify-between">
+      <div className="text-slate-800	text-l font-normal flex flex-col items-center mt-40">
         <Image
-          src="/construction.gif"
+          src="/construction-2.gif"
           alt="construction gif"
-          width={200}
-          height={200}
+          width={80}
+          height={80}
         />
         <p>making something new</p>
       </div>
